@@ -6,3 +6,4 @@
 ## 1.0.1 (em desenvolvimento)
 - RM-1: Correção - módulo clientes
 - RM-2: Correção - módulo cartão de crédito 
+- RM-3: Nova Funcionalidade – módulo empréstimo
