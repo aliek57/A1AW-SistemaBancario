@@ -1,12 +1,14 @@
 package br.edu.utfpr.td.tsi.sistema.bancario.clientes.dominio;
 
 public class Cliente {
+	
 
 	private String id;
 	private String nome;
 	private String cpf;
 	private String email;
 	private String dataNascimento;
+	// RM-5: Correção na valiação de renda
 	private double rendaAnual;
 
 	public String getId() {
