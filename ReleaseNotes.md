@@ -13,7 +13,7 @@
 - RM-5: Correção - módulo clientes (v1.0.3)
 - RM-6: Nova funcionalidade - módulo clientes (v1.1.0)
 
-## 1.3.0 (Em desenvolvimento)
+## 1.3.0 (Entrega 3)
 - RM-7: Nova funcionalidade - módulo cartão de crédito (v1.1.0)
 - RM-8: Correção - módulo cartão de crédito (v1.1.1)
 - RM-9: Nova funcionalidade - módulo empréstimo (v1.2.0)
