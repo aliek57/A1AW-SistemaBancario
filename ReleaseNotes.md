@@ -15,3 +15,4 @@
 
 ## 1.3.0 (Em desenvolvimento)
 - RM-7: Nova funcionalidade - módulo cartão de crédito (v1.1.0)
+- RM-8: Correção - módulo cartão de crédito (v1.1.1)
